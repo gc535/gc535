@@ -7,8 +7,8 @@ Welcome to my cyber space! 🚀
 ## 🔔 Check Out My Projects
 
 ### <img src="https://www.flippos.xyz/cdn/favicon16.png" alt="Flippos Logo" width="20" height="20"> **[Flippos](https://flippos.xyz)** 
-🎉✨ Create your own digital greeting cards or memory books **for free!** ✨🎉 
-Perfect for sharing memories and special moments in a fun and interactive way. 🎁  
+🎉✨ Create your digital greeting cards or memory books **for free!** ✨🎉 
+Share instantly with your loved ones 🎁  
 
 <br><br>
 
