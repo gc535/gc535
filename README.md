@@ -12,7 +12,7 @@ Share instantly with your loved ones 🎁
 
 <br><br>
 
-#### 🌱🐄🏡 My Cute little farm powered by [Gitanimals](https://www.gitanimals.org)
+#### My Cute little farm powered by [Gitanimals](https://www.gitanimals.org) 🌱🐄🏡 
 
 <a>
   <img
