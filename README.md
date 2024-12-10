@@ -1,18 +1,30 @@
 # 👋 Hi there! I'm Brandon
 
-## 🔔 Check out some of my nice project 
-<!--START_SECTION:activity-->
-- Create your digital greeting cards/memory book @ [Flippos](https://flippos.xyz) FOR FREE! 🎉
+Welcome to my cyber space! 🚀
 
-<!--START_SECTION:activity-->
+---
+
+## 🔔 Check Out My Projects
+
+### 🎉 **[Flippos](https://flippos.xyz)**  
+Create your own digital greeting cards or memory books **for free!** 🖼️✨  
+Perfect for sharing memories and special moments in a fun and interactive way. 🎁  
+
+---
+
+## 🌟 Featured Project Preview
 
 <a>
-<img
-  src="https://render.gitanimals.org/farms/gc535"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/gc535"
+    alt="Project Preview"
+    width="600"
+    height="300"
+    style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);"
+  />
 </a>
+
+---
 
 <!--
 **gc535/gc535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
