@@ -1,6 +1,5 @@
 # 👋 Hi there! I'm Brandon
-
-Welcome to my cyber space! 🚀
+🚀 Welcome to my cyber space 🚀
 
 <br>
 
