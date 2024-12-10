@@ -1,4 +1,12 @@
-<a href="https://github.com/devxb/gitanimals">
+# 👋 Hi there! I'm Brandon
+
+## 🔔 Check out some of my nice project 
+<!--START_SECTION:activity-->
+- Create your digital greeting cards/memory book @ [Flippos](https://flippos.xyz) FOR FREE! 🎉
+
+<!--START_SECTION:activity-->
+
+<a>
 <img
   src="https://render.gitanimals.org/farms/gc535"
   width="600"
