@@ -19,8 +19,7 @@
 ## Check Out My Projects
 
 ### <img src="https://www.flippos.xyz/cdn/favicon16.png" alt="Flippos Logo" width="20" height="20"> **[Flippos](https://flippos.xyz)** 
-✨ Create your digital greeting cards or memory books **for free!** 🎉 
-Share instantly with your loved ones ❤️
+✨ Create your digital greeting cards or memory books for free 🎉 and share instantly with your loved ones ❤️
 ### <img src="https://captiongenwizard.com/favicon.ico" alt="CaptionGenWizard Logo" width="20" height="20"> **[CaptionGenWizard](https://captiongenwizard.com)** 
 🎥 Free video caption service to automate your video editing workflow — with API access ⚡
 
