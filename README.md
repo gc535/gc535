@@ -42,7 +42,6 @@
   </h6>
 </div>
 
-a
 <!--
 **gc535/gc535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
