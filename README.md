@@ -18,7 +18,7 @@
 
 ## Check Out My Projects
 
-### <img src="https://avatarclip.cyberbluecollar.com/favicon.ico" alt="AvatarClip Logo" width="20" height="20"> **[AvatarClip]([https://flippos.xyz](https://avatarclip.cyberbluecollar.com/))** 
+### <img src="https://avatarclip.cyberbluecollar.com/favicon.ico" alt="AvatarClip Logo" width="20" height="20"> **[AvatarClip](https://avatarclip.cyberbluecollar.com/)** 
 🎥 Personal branded video made easy 😏 AvatarClip turns your script into a finished, personal-branded video narrated by your own avatar.
 ### <img src="https://www.flippos.xyz/cdn/favicon16.png" alt="Flippos Logo" width="20" height="20"> **[Flippos](https://flippos.xyz)** 
 ✨ Create your digital greeting cards or memory books for free 🎉 and share instantly with your loved ones ❤️
