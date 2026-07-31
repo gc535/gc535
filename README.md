@@ -18,7 +18,7 @@
 
 ## Check Out My Projects
 ### <img src="https://avatarclip.cyberbluecollar.com/favicon.ico" alt="LaunchNow Logo" width="20" height="20"> **[LaunchNow](https://www.launchnow.run)** 
-🚀 Attach your product in ONE day! 😍 Attach LaunchNow skill -> Describe your product -> Deploy with one command. 
+🚀 Launch your product in ONE day! 😍 Attach 'LaunchNow' skill -> Describe your product -> Deploy with one command. 
 ### <img src="https://avatarclip.cyberbluecollar.com/favicon.ico" alt="AvatarClip Logo" width="20" height="20"> **[AvatarClip](https://avatarclip.cyberbluecollar.com/)** 
 🎥 Personal branded video made easy 😏 AvatarClip turns your script into a finished, personal-branded video narrated by your own avatar.
 ### <img src="https://www.flippos.xyz/cdn/favicon16.png" alt="Flippos Logo" width="20" height="20"> **[Flippos](https://flippos.xyz)** 
