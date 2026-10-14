@@ -1,4 +1,5 @@
 <div style="margin-bottom: 0px" align="left">
+  <script src="https://user.userbadge.cc/badge.js" data-site-id="s_f1580ae3c0" async></script>
   <h1 style="border-bottom: none; margin-bottom: 0px">
     Hi there, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />  
   </h1>
